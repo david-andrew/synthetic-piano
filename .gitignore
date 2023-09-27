@@ -1,3 +1,6 @@
 # auto env files
 .autoenv
 .autoleave
+
+
+data/
